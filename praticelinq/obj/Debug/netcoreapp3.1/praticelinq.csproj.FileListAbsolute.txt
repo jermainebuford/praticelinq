@@ -1,0 +1,14 @@
+C:\Users\jay\Desktop\csharp27\praticelinq\praticelinq\obj\Debug\netcoreapp3.1\praticelinq.csproj.AssemblyReference.cache
+C:\Users\jay\Desktop\csharp27\praticelinq\praticelinq\obj\Debug\netcoreapp3.1\praticelinq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jay\Desktop\csharp27\praticelinq\praticelinq\obj\Debug\netcoreapp3.1\praticelinq.AssemblyInfoInputs.cache
+C:\Users\jay\Desktop\csharp27\praticelinq\praticelinq\obj\Debug\netcoreapp3.1\praticelinq.AssemblyInfo.cs
+C:\Users\jay\Desktop\csharp27\praticelinq\praticelinq\obj\Debug\netcoreapp3.1\praticelinq.csproj.CoreCompileInputs.cache
+C:\Users\jay\Desktop\csharp27\praticelinq\praticelinq\bin\Debug\netcoreapp3.1\praticelinq.exe
+C:\Users\jay\Desktop\csharp27\praticelinq\praticelinq\bin\Debug\netcoreapp3.1\praticelinq.deps.json
+C:\Users\jay\Desktop\csharp27\praticelinq\praticelinq\bin\Debug\netcoreapp3.1\praticelinq.runtimeconfig.json
+C:\Users\jay\Desktop\csharp27\praticelinq\praticelinq\bin\Debug\netcoreapp3.1\praticelinq.runtimeconfig.dev.json
+C:\Users\jay\Desktop\csharp27\praticelinq\praticelinq\bin\Debug\netcoreapp3.1\praticelinq.dll
+C:\Users\jay\Desktop\csharp27\praticelinq\praticelinq\bin\Debug\netcoreapp3.1\praticelinq.pdb
+C:\Users\jay\Desktop\csharp27\praticelinq\praticelinq\obj\Debug\netcoreapp3.1\praticelinq.dll
+C:\Users\jay\Desktop\csharp27\praticelinq\praticelinq\obj\Debug\netcoreapp3.1\praticelinq.pdb
+C:\Users\jay\Desktop\csharp27\praticelinq\praticelinq\obj\Debug\netcoreapp3.1\praticelinq.genruntimeconfig.cache
